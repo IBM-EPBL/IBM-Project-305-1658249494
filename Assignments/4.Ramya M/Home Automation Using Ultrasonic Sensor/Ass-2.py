@@ -5,10 +5,10 @@ print(a)
 print(b)
 if a>80:
     if b>80:
-        print("Alram ON")
+        print("Alarm ON")
         print ("hazard predicted")
     else:
-        print("Alram ON")
+        print("Alarm ON")
         print ("high temp")
 else:
     print ("Alarm OFF")
